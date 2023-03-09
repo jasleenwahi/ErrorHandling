@@ -75,7 +75,7 @@ class Main
         }
         catch (NumberFormatException exception)
         {
-            System.out.println("the input is not a valid number");
+            System.out.println("the input is not  valid number");
         }
         catch (ArithmeticException exception)
         {
