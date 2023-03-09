@@ -18,12 +18,12 @@ public class RandomNumber
                 userInput = Integer.parseInt(takeInput.next());
                 if (userInput < random)
                 {
-                    System.out.println("Too Low");
+                    System.out.println("Too Low!");
 
                 }
                 else if (userInput > random)
                 {
-                    System.out.println("Too High");
+                    System.out.println("Too High!");
 
                 }
                 else
