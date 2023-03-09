@@ -1,4 +1,4 @@
-package com.knoldus.Question1;
+ package com.knoldus.Question1;
 import java.util.Scanner;
 class DivisionByZeroException extends Exception
 {
